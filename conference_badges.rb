@@ -35,4 +35,5 @@ def printer(attendees)
     puts "#{x}."
   end
 end
+end
  
