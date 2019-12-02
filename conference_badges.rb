@@ -33,6 +33,5 @@ def printer(attendees)
     puts "#{x}"
   end
   assign_rooms(attendees).each do 
-    puts assign_rooms(attendees)
-end
+    puts 
  
