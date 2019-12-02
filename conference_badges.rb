@@ -30,7 +30,6 @@ end
 
 def printer(attendees)
   batch_badge_creator(attendees).each do |x|
-    binding.pry
     puts  "Hello, my name is #{x}."
   end
 end
